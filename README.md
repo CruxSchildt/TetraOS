@@ -1,0 +1,2 @@
+# TetraOS
+A Linux distribution. 
