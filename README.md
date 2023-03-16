@@ -6,7 +6,7 @@ TetraOS is an open-source operating system running on the Linux kernel. TetraOS 
 
 The following links are provided for more in depth info and work that has been put together outside of GitHub.
 
-Official TetraOS Project Website Link: https://cruxsch.editorx.io/tetraos
+Official TetraOS Project Website Link: https://cruxsch.editorx.io/tetrao
 
 TetraOS GUI Figma File Design: https://www.figma.com/file/5uQzHkLRkyCwofSDGxjYm7/TetraOS-UI-File?node-id=0%3A1&t=8zwMTyWQEgveN9YU-1
 
