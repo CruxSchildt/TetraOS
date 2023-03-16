@@ -2,7 +2,7 @@
 
 TetraOS is an open-source operating system running on the Linux kernel. TetraOS is meant to be a stable and user-friendly Linux distribution for Linux beginners. Your experience with TetraOS is meant to be customizable, fluid, and secure.
 
-# External Helpful Links (related to the project)
+# External Helpful Links (Related to the Project)
 
 The following links are provided for more in depth info and work that has been put together outside of GitHub.
 
